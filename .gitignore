@@ -4,3 +4,4 @@ data/
 dump/
 public/uploads/*.jpg
 public/uploads/*.jpeg
+_ref
